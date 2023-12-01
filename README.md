@@ -9,11 +9,13 @@
 
 ###
 
-<img align="left" height="150" src="https://i.ibb.co/K6WNcdF/tumblr-oi37ih8-IXm1qe959eo2-1280-2.jpg"  />
+<img align="left" heigth="150" width="200" src="https://i.ibb.co/pRZyG1n/anime-albrecht.gif"  />
 
 ###
 
 <div align="left">
+  <br>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
